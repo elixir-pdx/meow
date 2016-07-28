@@ -1,0 +1,12 @@
+%{"connection": {:hex, :connection, "1.0.4", "a1cae72211f0eef17705aaededacac3eb30e6625b04a6117c1b2db6ace7d5976", [:mix], []},
+  "exml": {:git, "https://github.com/paulgray/exml.git", "d04d0dfc956bd2bf5d9629a7524c6840eb02df28", []},
+  "extwitter": {:hex, :extwitter, "0.7.1", "35c18c3947e7fd15dce977b8b366846b411d8ff4e53c95201b6d22f8af12cdef", [:mix], [{:poison, "~> 1.5", [hex: :poison, optional: false]}]},
+  "fast_xml": {:hex, :fast_xml, "1.1.14", "23d4de66e645bca1d8a557444e83062cc42f235d7a7e2d4072d525bac3986f04", [:rebar3], [{:p1_utils, "1.0.4", [hex: :p1_utils, optional: false]}]},
+  "gen_stage": {:hex, :gen_stage, "0.4.2", "8c9a513d84a28017ef1133de5e96d9e403b9d0aef6c04a01e8293bf9f56257a5", [:mix], []},
+  "gproc": {:hex, :gproc, "0.5.0", "2df2d886f8f8a7b81a4b04aa17972b5965bbc5bf0100ea6d8e8ac6a0e7389afe", [:rebar], []},
+  "hedwig": {:hex, :hedwig, "1.0.0-rc3", "493de86e07e9b90e6e235277f75d96c02d243707403fb8179d17a9d0df64f86b", [:mix], [{:gproc, "~> 0.5", [hex: :gproc, optional: false]}]},
+  "hedwig_hipchat": {:hex, :hedwig_hipchat, "0.9.4", "df3a7633ffc95b16ddbe11ccb9cace1e0345575e3be980c8b31bb4154a040fb9", [:mix], [{:hedwig, "~> 1.0.0-rc3", [hex: :hedwig, optional: false]}, {:romeo, "~> 0.4", [hex: :romeo, optional: false]}]},
+  "oauth": {:git, "https://github.com/tim/erlang-oauth.git", "fca8163e8f7af867015e2413c4b03a4f8f4df0c9", []},
+  "p1_utils": {:hex, :p1_utils, "1.0.4", "7face65db102b5d1ebe7ad3c7517c5ee8cfbe174c6658e3affbb00eb66e06787", [:rebar3], []},
+  "poison": {:hex, :poison, "1.5.2", "560bdfb7449e3ddd23a096929fb9fc2122f709bcc758b2d5d5a5c7d0ea848910", [:mix], []},
+  "romeo": {:hex, :romeo, "0.4.0", "ace7cd6e13fed9557ece9e4dae8d5e0dd6a17144264c4467c3e4ad2e2bd0e94a", [:mix], [{:connection, "~> 1.0", [hex: :connection, optional: false]}]}}
